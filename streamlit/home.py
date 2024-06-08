@@ -57,6 +57,9 @@ css = """
     font-weight: bold;
     color: #333333;
     margin-bottom: 10px;
+
+.analysis-text {
+color: black;
 }
 </style>
 """
